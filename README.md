@@ -1,6 +1,8 @@
 ### Hi, I'm John 👋
 
-### - 🌱 I’m currently learning Frontend & Backend development.
+- 🌱 I’m currently learning Frontend & Backend development.
+
+📫 How to reach me: [Email](johnvu124@gmail.com)
 <!--
 **johntmvu/johntmvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
